@@ -1,0 +1,388 @@
+/**
+ * HelpPag.es stylesheet template
+ * (c) 2014 HelpPag.es and Ryan Quinn
+ *
+ * Drop this in your GitHub repository for your documentation and we'll
+ * load it with your documentation and style your docs
+ *
+ * It'll load stylesheets directly from us, so as long as you have internet
+ * You'll be working with exactly what your docs will look like.
+ */
+
+body {
+  background: #f1f1f1;
+}
+
+.custom-header {
+  background: #253A3F
+}
+
+.custom-header h1 a {
+  color: #e7e7e7;
+  margin:0;
+  padding:0 20px;
+  border-radius: 5px;
+}
+
+.custom-header h1 {
+  font-size:40px;
+  line-height:40px;
+  padding:0;
+  margin:10px 0;
+}
+
+.custom-header a {
+	color:#fff;
+	font-weight:bold;
+  margin:10px 0;
+  padding:10px;
+}
+
+.custom-header .nav>li>a:hover, .custom-header h1 a:hover {
+	background-color: rgba(0, 0, 0, .25);
+  text-decoration:none;
+}
+
+/* The top bar is responsible for helping users scroll back up to the top of the page when they're near the bottom*/
+.top-bar {
+
+}
+
+/* This is the main title for the page */
+h1.title {
+
+}
+
+/* The link inside of the main title */
+h1.title a {
+
+}
+
+/* The top search form */
+form#search {
+
+}
+
+form#search input#search-bar {
+
+}
+
+/* The sidebar the holes the nav on the right */
+#sidebar {
+
+}
+
+/* The main navigation list*/
+#sidebar ul#navigation {
+
+}
+
+/* Files within the navigation */
+#sidebar li {
+
+}
+
+#sidebar li a {
+
+}
+
+/* Folders within th enavigation */
+#sidebar li.folder {
+
+}
+
+#sidebar li.folder a {
+
+}
+
+/* Subfiles within a folder */
+#sidebar li.folder ul.files {
+
+}
+
+
+/* ------- Main Page Content ------*/
+/* Container for the main page contents */
+.page-container {
+
+}
+
+/* inner container for the main page contents */
+.page {
+
+}
+
+.page h1 {
+
+}
+
+.page h2 {
+
+}
+
+.page h3 {
+
+}
+
+.page h4 {
+
+}
+
+.page h5 {
+
+}
+
+/* The link that appears next to titles for in-page navigation */
+.page .anchor-link {
+
+}
+
+/* preformatted text */
+.page pre {
+
+}
+
+/* when nested inside a `pre` this is usually code blocks */
+.page pre code {
+
+}
+
+
+/* inline code */
+.page code {
+
+}
+
+.page img {
+
+}
+
+/* generic info about the page - appears at the bottom of each page*/
+.page-info {
+
+}
+
+.page-info .muted {
+
+}
+
+/* ------ Page Footer ------*/
+/* If you absolutely must hide our logo at the bottom,
+you may, but leaving it in is an awesome way to help
+support us and show you care!*/
+
+.footer {
+
+}
+
+
+
+
+
+.glyphicon {
+
+}
+
+.glyphicon-arrow-up {
+
+}
+
+span.glyphicon.glyphicon-arrow-up {
+
+}
+
+div#main-content {
+
+}
+
+div.container {
+
+}
+
+button.navbar-toggle {
+
+}
+
+span.sr-only {
+
+}
+
+span.icon-bar {
+
+}
+
+div.row {
+
+}
+
+div.col-sm-9 {
+
+}
+
+h1.title {
+
+}
+
+a.page-link {
+
+}
+
+div.col-sm-3 {
+
+}
+
+form#search {
+
+}
+
+input#search-bar {
+
+}
+
+input.form-control {
+
+}
+
+div#sidebar {
+
+}
+
+.collapse {
+
+}
+
+.navbar-collapse {
+
+}
+
+div.collapse.navbar-collapse {
+
+}
+
+ul#navigation {
+
+}
+
+ul#navigation li {
+
+}
+
+.nav {
+
+}
+
+.nav-pills {
+
+}
+
+.nav-stacked {
+
+}
+
+ul.nav.nav-pills.nav-stacked {
+
+}
+
+ul.nav.nav-pills.nav-stacked li {
+
+}
+
+li.folder {
+
+}
+
+.glyphicon-chevron-down {
+
+}
+
+span.glyphicon.glyphicon-chevron-down {
+
+}
+
+.files {
+
+}
+
+ul.files.nav.nav-pills.nav-stacked {
+
+}
+
+ul.files.nav.nav-pills.nav-stacked li {
+
+}
+
+div#inner-content {
+
+}
+
+div.col-sm-12 {
+
+}
+
+div.page-container {
+
+}
+
+div.page {
+
+}
+
+h1. {
+
+}
+
+a. {
+
+}
+
+span. {
+
+}
+
+h2. {
+
+}
+
+h3. {
+
+}
+
+h4. {
+
+}
+
+h5. {
+
+}
+
+h6. {
+
+}
+
+div. {
+
+}
+
+table. {
+
+}
+
+code. {
+
+}
+
+iframe. {
+
+}
+
+div.page-info {
+
+}
+
+span.muted {
+
+}
+
+div.footer {
+
+}
