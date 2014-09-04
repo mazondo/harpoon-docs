@@ -1,7 +1,7 @@
 # Extending Harpoon
 Extending harpoon is pretty easy.  Just add your own services, and make sure they repond to the following functions:
 
- * setup - sets everyting up for future deploys
+ * setup - sets everything up for future deploys
  * deploy - deploys
  * list - lists available rollbacks
  * rollback - rolls back to a specified release
@@ -11,19 +11,19 @@ An example service might look like this:
 
 ```ruby
 module Harpoon
-	module Services
-		class HostingProvider
-			attr_accessor :config, :requests
+  module Services
+    class HostingProvider
+      attr_accessor :config, :requests
 
-			def initialize(config, auth, logger)
-				@auth = auth
-				@config = config
-				@logger = logger
-			end
+      def initialize(config, auth, logger)
+        @auth = auth
+        @config = config
+        @logger = logger
+      end
 
-			def setup
+      def setup
         #setup for future deploys
-			end
+      end
 
       def deploy
         #deploy new code
@@ -40,8 +40,8 @@ module Harpoon
       def doctor
         #check to see if we're ready for a deploy
       end
-		end
-	end
+    end
+  end
 end
 ```
 
