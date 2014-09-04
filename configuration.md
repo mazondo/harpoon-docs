@@ -1,5 +1,5 @@
 # Configuration
-Running `harpoon init` will generic a basic configuration for your static site.  The following options can be further defined:
+Running `harpoon init` will generate a basic configuration for your static site.  The following options can be further defined:
 ## Example
 We'll go through what these options mean below
 
