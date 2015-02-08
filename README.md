@@ -1,5 +1,5 @@
 # Harpoon
-Harpoon is a really easy to use static site deployer.  Currently we support Amazon s3, but it's pretty easy to [add integrations if you're interested](/extending-harpoon).
+Harpoon is a really easy to use static site deployer.  Currently we support Amazon s3 and BitBalloon, but it's pretty easy to [add integrations if you're interested](/extending-harpoon).
 
 ## Installation
 To install harpoon just run:
